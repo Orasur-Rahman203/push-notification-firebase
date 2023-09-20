@@ -23,9 +23,10 @@ useEffect(()=>{
 
   return (
     <div>
-      <header className="App-header">
+      <h1>firebase push notificatiion demo!!!</h1>
+      {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-      </header>
+      </header> */}
     </div>
   );
 }
